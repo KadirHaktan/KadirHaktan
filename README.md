@@ -1,8 +1,8 @@
 ## Hello all dev guys <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-There are not a lot of things about me.I just love trying to write clean and effective code.
+<strong>There are not a lot of things about me.I just love trying to write clean and effective code.</strong>
 <br></br>
-Everyone should keep going with own dreams and desires.So work hard!
+<strong>Everyone should keep going with own dreams and desires.So work hard!</strong>
 <br></br>
 
 ![](https://media.giphy.com/media/MBNgMB6miNesE/giphy.gif)
