@@ -8,5 +8,5 @@ Everyone should keep going with own dreams and desires.So work hard!
 ![](https://media.giphy.com/media/MBNgMB6miNesE/giphy.gif)
 ##
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=KadirHaktan&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KadirHaktan&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=KadirHaktan&count_private=true&theme=tokyonight&showicons=true)]()
