@@ -9,4 +9,5 @@ Everyone should keep going with own dreams and desires.So work hard!
 ##
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KadirHaktan&langs_count=5&theme=tokyonight)]()
+<br></br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=KadirHaktan&count_private=true&theme=tokyonight&showicons=true)]()
