@@ -10,7 +10,7 @@
 ##
 
 - 💬 If you wanna ask me about something, you can ask about these topics **c#,nodejs,typescript and javascript**
-<h3 align="left">And if you Connect with me to somewhere:</h3>
+<h3 align="left">And if you want to Connect me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kadir-haktan-yucesoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kadir-haktan-yucesoy" height="30" width="40" /></a>
 </p>
